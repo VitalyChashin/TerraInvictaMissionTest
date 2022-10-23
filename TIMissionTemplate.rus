@@ -1,0 +1,6 @@
+TIMissionTemplate.displayName.GlobalProtect=Защищать интересы везде
+TIMissionTemplate.description.GlobalProtect=Укрепите все наши контрольные точки от репрессий, чисток и переворотов противника.
+TIMissionTemplate.Success.GlobalProtect={returnedValue}
+TIMissionTemplate.GlobalProtect.pointProtect=Защищено точек:
+TIMissionTemplate.GlobalProtect.till=,до
+TIMissionTemplate.GlobalProtect.habProtect=Защищено хабов:

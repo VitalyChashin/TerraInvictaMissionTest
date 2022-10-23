@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2166437144
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ff0477e41366588b18431a6bb3469348
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/new_illustrations/ico_globalprotect_on.png
+- Assets/new_illustrations/ico_globalprotect_off.png
+Dependencies: []

@@ -1,0 +1,13 @@
+{
+    "Id": "GlobalProtectMission",
+	"DisplayName":"Global Protect Mission - Test",
+	"title": "Test mod",
+	"author": "wchf",
+	"description": "Testing mission effect modding",
+	"version":"0.0.2",
+	"Requirements": [],
+	"ManagerVersion": "0.24.0.0",
+    "AssemblyName": "GlobalProtectMission.dll",
+    "EntryMethod": "GlobalProtectMission.Main.Load",	
+	"mod url": ""
+}

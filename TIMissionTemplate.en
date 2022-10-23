@@ -1,0 +1,6 @@
+TIMissionTemplate.displayName.GlobalProtect=Defend All Interests
+TIMissionTemplate.description.GlobalProtect=Fortify all our control points against enemy Crackdowns, Purges and Coups.
+TIMissionTemplate.Success.GlobalProtect={returnedValue}
+TIMissionTemplate.GlobalProtect.pointProtect=Control points protected:
+TIMissionTemplate.GlobalProtect.till=,till
+TIMissionTemplate.GlobalProtect.habProtect=Habs protected:
